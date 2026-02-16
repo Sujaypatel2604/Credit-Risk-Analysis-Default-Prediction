@@ -71,7 +71,8 @@ Deploy optimized threshold (0.3) to reduce losses
 Monitor high-risk customers proactively
 Apply customer risk segmentation strategy
 
-🚀 Business Impact
+🚀 Business Impact:
+
 Reduced default risk exposure
 Improved credit approval strategy
 Better customer risk profiling
